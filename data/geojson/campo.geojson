@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "name": "Campo Los Montes",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "Name": "Polígono del campo" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-59.0039537, -34.3845813],
+            [-58.9986324, -34.3819177],
+            [-59.0112676, -34.3784156],
+            [-59.0115761, -34.3790322],
+            [-59.0039537, -34.3845813]
+          ]
+        ]
+      }
+    }
+  ]
+}
