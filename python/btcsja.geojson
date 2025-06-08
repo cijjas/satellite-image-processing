@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "name": "btcsja",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "Name": "Polígono sin título", "Description": "" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-59.949149284682989, -35.621028149356228, 0.0],
+            [-59.968813955146722, -35.638392135877233, 0.0],
+            [-59.931560880829302, -35.667524337002519, 0.0],
+            [-59.911073335005113, -35.649461573067803, 0.0],
+            [-59.949149284682989, -35.621028149356228, 0.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
